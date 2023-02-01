@@ -2,6 +2,7 @@
 - 👀 I’m interested in Cloud computing
 - 🌱 I’m currently learning Azure 104
 - 💞️ I’m looking to collaborate on Labs
+- ALX Student 
 - 📫 How to reach me via email leandrablose27@gmail.com
 
 <!---
