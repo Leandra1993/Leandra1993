@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leandra1993
 - 👀 I’m interested in Cloud computing
-- 🌱 I’m currently learning Azure 104
+- 🌱 Change maker
 - 💞️ I’m looking to collaborate on Labs
 - ALX Student 
 - 📫 How to reach me via email leandrablose27@gmail.com
